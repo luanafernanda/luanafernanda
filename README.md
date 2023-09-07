@@ -5,7 +5,7 @@
 
 <img align="right" alt="gif coding" width="280" src="https://64.media.tumblr.com/193b7fdcb90145b3ffcf83208f56f7fa/tumblr_pm52u2M4aV1rv2ynto1_r1_250.gifv">
 
-🌆 Resido em Salvador/BA e adoro explorar cada canto da cidade, capturando momentos com minha câmera. Cada fotografia é uma história e gosto de acreditar que cada linha de código que escrevo também conta uma história.
+🌆 Resido em Fortaleza/CE e adoro explorar cada canto da cidade, capturando momentos com minha câmera. Cada fotografia é uma história e gosto de acreditar que cada linha de código que escrevo também conta uma história.
 
 💼 Como desenvolvedora front-end, acredito que a tecnologia e o design podem andar de mãos dadas, criando experiências incríveis para os usuários. Estou sempre em busca de aprender mais e superar meus limites.
 
