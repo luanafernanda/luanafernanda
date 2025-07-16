@@ -35,9 +35,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
-<br>
-<img height=180 margin-top=20 src="https://github-readme-stats.vercel.app/api?username=luanafernanda&show_icons=true&theme=moltack"> 
-<img  height=180 margin-top=20 src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanafernanda&layout=compact&langs_count=10&theme=moltack">
+
 
 
 
