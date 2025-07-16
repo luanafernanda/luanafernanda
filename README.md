@@ -1,5 +1,3 @@
-melhora o codigo pra não utilizar tanto <br>,  coloca as duas últimas imagens centralizadas e uma ao lado da outra:
-
 <h2 align="center">✨ Oi, eu sou a Luana!</h2>
 
 <p align="center">
