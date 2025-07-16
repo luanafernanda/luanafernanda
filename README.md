@@ -4,15 +4,15 @@
   💻 Desenvolvedora Full Stack | 🌍 Morando em Portugal | 🚀 Em constante transformação
 </p>
 <br>
-<img align="right" alt="gif coding" width="220" src="https://64.media.tumblr.com/193b7fdcb90145b3ffcf83208f56f7fa/tumblr_pm52u2M4aV1rv2ynto1_r1_250.gifv">
 
 <h2 align="center">🌸 Sobre mim</h2>
+<img align="right" margin-top="20" alt="gif coding" width="230" src="https://64.media.tumblr.com/193b7fdcb90145b3ffcf83208f56f7fa/tumblr_pm52u2M4aV1rv2ynto1_r1_250.gifv">
 🎨 Sou apaixonada por criar experiências digitais que façam sentido, tanto visual quanto funcional. Como desenvolvedora full stack, acredito que tecnologia e design andam de mãos dadas na criação de interfaces intuitivas e encantadoras.
 <br><br>
-
 🚀 Minha jornada é movida por curiosidade, aprendizado constante e a vontade de superar limites. Hoje, estou realizando um dos meus grandes sonhos: <b>morar em Portugal 🇵🇹</b> e atuar de forma híbrida (ou remota), enquanto cresço como pessoa e profissional.
 <br><br>
 🏙️ Sempre aberta a novas conexões e oportunidades! Se quiser conversar sobre desenvolvimento, a vida ou as belezas de Lisboa, é só me chamar. :)
+<br><br>
 
 
 <h2 align="center"> 🛸Conecte-se comigo</h2>
