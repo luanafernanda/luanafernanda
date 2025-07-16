@@ -14,7 +14,7 @@
 🏙️ Sempre aberta a novas conexões e oportunidades! Se quiser conversar sobre desenvolvimento, a vida ou as belezas de Lisboa, é só me chamar. :)
 <br><br>
 
-
+<br><br>
 <h2 align="center"> 🛸Conecte-se comigo</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
