@@ -11,8 +11,6 @@
 🚀 Minha jornada é movida por curiosidade, aprendizado constante e a vontade de superar limites. Hoje, estou realizando um dos meus grandes sonhos: <b>morar em Portugal 🇵🇹</b> e atuar de forma híbrida (ou remota), enquanto cresço como pessoa e profissional.
 <br><br>
 🏙️ Sempre aberta a novas conexões e oportunidades! Se quiser conversar sobre desenvolvimento, a vida ou as belezas de Lisboa, é só me chamar. :)
-<br><br>
-
 <br>
 <h2 align="center">🚀 Skills</h2>
 <div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
