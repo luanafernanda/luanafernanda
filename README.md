@@ -14,15 +14,14 @@
 🏙️ Sempre aberta a novas conexões e oportunidades! Se quiser conversar sobre desenvolvimento, a vida ou as belezas de Lisboa, é só me chamar. :)
 <br><br>
 
-
+<br><br>
 <h2 align="center"> 🛸Conecte-se comigo</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    <img src= https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=orange">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </div>
-<br>
+<br><br>
 <h2 align="center">🚀 Skills</h2>
 <div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -38,7 +37,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 <br><br>
-<img height=180 margin-top=20 src="https://github-readme-stats.vercel.app/api?username=luanafernanda&show_icons=true&theme=moltack">    <img  height=180 margin-top=20 src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanafernanda&layout=compact&langs_count=10&theme=moltack">
+<img height=180 margin-top=20 src="https://github-readme-stats.vercel.app/api?username=luanafernanda&show_icons=true&theme=moltack"> 
+<img  height=180 margin-top=20 src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanafernanda&layout=compact&langs_count=10&theme=moltack">
 
 
 
